@@ -13,13 +13,13 @@ The required libraries are:
 2. Torchvision
 3. Matplotlib
 
-    1. Install the required dependencies:
+* Install the required dependencies:
 
     ```bash
     pip install -r requirements.txt
     ```
-
-2. Train the model:
+    
+* Train the model:
 
     ```bash
     python training.py
