@@ -1,4 +1,4 @@
-# Imagae Classification Model With Pytorch
+# Image Classification Model With Pytorch
 
 This repository contains a deep learning model for classifying flowers using a pre-trained ResNet-18 model. The model is trained using **PyTorch** and **Torchvision** and can classify images into different flower categories.
 
