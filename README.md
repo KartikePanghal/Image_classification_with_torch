@@ -9,9 +9,9 @@ This project trains a deep learning model to classify flower images. It uses tra
 ## Requirements
 The required libraries are:
 
-PyTorch
-Torchvision
-Matplotlib
+1. PyTorch
+2. Torchvision
+3. Matplotlib
 
 
 1. Install the required dependencies:
